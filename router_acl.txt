@@ -1,0 +1,8 @@
+Extended IP access list WAN-IN
+    10 permit tcp any host 192.168.20.10 eq www 
+    15 permit icmp any 192.168.10.0 0.0.0.255 echo-reply
+    20 deny ip any 192.168.10.0 0.0.0.255
+    30 permit icmp any 192.168.20.0 0.0.0.255 echo-reply
+Extended IP access list DMZ-IN
+    10 deny ip 192.168.20.0 0.0.0.255 192.168.10.0 0.0.0.255
+    20 permit ip any any
