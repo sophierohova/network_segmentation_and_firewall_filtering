@@ -226,11 +226,11 @@ HTTP-запросы к серверу `192.168.20.10` успешно обраб�
 
 ## 10. Материалы проекта
 
-- `network_segmentation.pkt` — файл модели  (Cisco Packet Tracer v6.1.1).
-- `topology.png` — изображение топологии сети.
-- `router_acl.txt` — итоговая текстовая конфигурация ACL.
-- `screenshots/` — скриншоты топологии, конфигурации и результатов экспериментов
+`network_segmentation.pkt` — файл модели  (Cisco Packet Tracer v6.1.1).
+`topology.png` — изображение топологии сети.
+`router_acl.txt` — итоговая текстовая конфигурация ACL.
+`screenshots/` — скриншоты топологии, конфигурации и результатов экспериментов
 
 ## Авторы проекта
-* [sophierohova](https://github.com/sophierohova)
-* [samirasalavatova](https://github.com/samirasalavatova)
+[sophierohova](https://github.com/sophierohova)
+[samirasalavatova](https://github.com/samirasalavatova)
